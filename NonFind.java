@@ -13,5 +13,6 @@ public class NonFind  {
 		System.out.println(a.hashCode());
 		System.out.println(s.hashCode());
 		System.out.println(s.equals(a));
+		Object[] ar= {1,3,"jaj"};
 	}
 }
